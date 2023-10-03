@@ -1,6 +1,8 @@
 # belly-button-challenge
 Module 14 Challenge
 
+Static page hosting service page URL: https://patrickm96.github.io/belly-button-challenge/
+
 The following resources were referenced to complete this challenge:
 
 1. Javascript map array - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
