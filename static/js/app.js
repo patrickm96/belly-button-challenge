@@ -130,9 +130,9 @@ function update_MetaData(sampleID) {
     let MetadataDiv = d3.select("#sample-metadata")
     MetadataDiv.html("")
 // Append key value pairs to the metadata div
-    Object.entries(selectedSample).forEach(([key, value])=> {
-        MetadataDiv.append("p").text(key + ": " + value)
-    })
+    for (const [key, value] of Object.entries(selectedSample)) {
+        MetadataDiv.append("p").text(`${key}: ${value}`);
+      }
     console.log("Metadata updated");
 };
 

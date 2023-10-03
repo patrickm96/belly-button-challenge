@@ -10,5 +10,6 @@ The following resources were referenced to complete this challenge:
 3. Slice and reverse array - https://stackoverflow.com/questions/30610523/reverse-an-array-in-javascript-without-mutating-the-original-array
 4. Create bubble chart using Plotly - https://plotly.com/javascript/bubble-charts/
 5. Create bar chart using Plotly - Instructor Eli covered this during class.
-6. Modify javascript code to be dynamic based on selected sample - ChatGPT
-7. Debugging dropdown menu population function - ChatGPT
+6. Populate metadata key value pairs using Object.entries() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
+7. Modify javascript code to be dynamic based on selected sample - ChatGPT
+8. Debugging dropdown menu population function - ChatGPT
