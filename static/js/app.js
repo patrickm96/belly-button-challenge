@@ -13,6 +13,7 @@ d3.json(json_url).then(function(dataResponse) {
 // Function to populate the dropdown options
 function populateDropdown(names) {
     let dropdown = d3.select("#selDataset");
+    //dropdown.html("");
     names.forEach(function(name) {
     dropdown.append("option").text(name).property("value", name);
     });
